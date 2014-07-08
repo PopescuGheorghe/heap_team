@@ -50,15 +50,6 @@ public class HeapSort
         arr[i] = arr[j];
         arr[j] = tmp;
     }
-<<<<<<< HEAD
-
-    public static void main(String[] args) {
-        int[] toSort = {1,4,2,3,5,6};
-        sort(toSort);
-        System.out.println(toString(toSort));
-    }
-}
-=======
     /* Main method */
     public static void main(String[] args)
     {
@@ -83,7 +74,3 @@ public class HeapSort
         System.out.println();
     }
 }
-
-
-
->>>>>>> 562c39f7a752992378d23d9583eec656584ded95
