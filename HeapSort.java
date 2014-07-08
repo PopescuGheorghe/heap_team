@@ -7,7 +7,7 @@ import java.util.Scanner;
 /* Class HeapSort */
 public class HeapSort
 {
-    private static int N;
+    private static int N = 1000;
     /* Sort Function */
     public static void sort(int arr[])
     {
@@ -49,5 +49,11 @@ public class HeapSort
         int tmp = arr[i];
         arr[i] = arr[j];
         arr[j] = tmp;
+    }
+
+    public static void main(String[] args) {
+        int[] toSort = {1,4,2,3,5,6};
+        sort(toSort);
+        System.out.println(toString(toSort));
     }
 }
