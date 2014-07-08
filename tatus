@@ -1,0 +1,26 @@
+[33mcommit e2f786a7987d8570dbc199b41e812e968c9a51e7[m
+Author: Roland Batovski <roland.batovski@gmail.com>
+Date:   Tue Jul 8 14:55:52 2014 +0300
+
+    Added closed brace
+
+[33mcommit 50aad827d8b2fb399646469ac9e2b500000c93e7[m
+Merge: 8fe8b8a c5269b5
+Author: PopescuGheorghe <gimmy.xdd@gmail.com>
+Date:   Tue Jul 8 14:43:25 2014 +0300
+
+    Merge pull request #1 from mercassergiu/master
+    
+    Max and swap
+
+[33mcommit c5269b5e79d03bb8c1cfa3b28b147f53a7075e6d[m
+Author: Sergiu Mercas <mercas.sergiu@gmail.com>
+Date:   Tue Jul 8 13:41:14 2014 +0300
+
+    Max and swap
+
+[33mcommit 8fe8b8a62a292bc937a493ff725cfc15e569eafc[m
+Author: Popescu Gheorghe <digiedu2@digital-education.com>
+Date:   Tue Jul 8 11:54:45 2014 +0300
+
+    Added Main class and heapify function
